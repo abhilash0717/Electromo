@@ -10,3 +10,5 @@ public class ElenctromoApplication {
 		SpringApplication.run(ElenctromoApplication.class, args);
 	}
 }
+
+//Spring project
