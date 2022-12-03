@@ -32,12 +32,14 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
 .card {
-/* Added styling for card */
+  /* Added styling for card */
   padding: 30px;
   background-color: #fff;
   border: 1px solid #ededed;
@@ -45,11 +47,13 @@
   border-radius: 0;
   box-shadow: none;
 }
-.button1  {
+
+.button1 {
   background-color: #282c34;
   color: aliceblue;
 }
-.button1 :hover{
-  cursor: pointer ;
+
+.button1:hover {
   background-color: blue !important;
+  cursor: pointer;
 }
